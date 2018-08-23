@@ -1,0 +1,14 @@
+CACHE MANIFEST
+css/creative.min.css
+img/git-hydra-32x32.png
+img/git-hydra-96x96.png
+img/header.jpg
+js/creative.min.js
+vendor/bootstrap/css/bootstrap.min.css 
+vendor/bootstrap/js/bootstrap.bundle.min.js
+vendor/font-awesome/css/font-awesome.min.css
+vendor/jquery-easing/jquery.easing.min.js
+vendor/jquery/jquery.min.js
+vendor/magnific-popup/jquery.magnific-popup.min.js
+vendor/magnific-popup/magnific-popup.css
+vendor/scrollreveal/scrollreveal.min.js
